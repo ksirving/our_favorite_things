@@ -9,7 +9,7 @@
 ### My name is Katie and my favourite food is ice cream
 
 
-#My name is Karen and my favorite food is Coke Zero! 
+#My name is Karen and my favorite food is chocolate! 
 
 ###MY name is Jacob and my favorite food is bread!
 
