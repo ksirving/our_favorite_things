@@ -3,7 +3,7 @@
 
 ### My name is Glen Coco, and my favorite food is candy canes
 
-### My name is Katie and my favourite food is cake
+### My name is Katie and my favourite food is ice cream
 
 #My name is Karen and my favorite food is Coke Zero! 
 
