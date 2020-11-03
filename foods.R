@@ -11,5 +11,8 @@
 
 #My name is Karen and my favorite food is Coke Original! 
 
+#My name is Karen and my favorite food is chocolate Coke! 
+
+
 ###MY name is Jacob and my favorite food is bread!
 
